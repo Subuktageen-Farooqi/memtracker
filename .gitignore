@@ -1,0 +1,10 @@
+node_modules/
+.next/
+backend/__pycache__/
+backend/.venv/
+backend/memtracker.db
+*.pyc
+.env
+backend/.env
+backend/demo_cv.db
+*.db
